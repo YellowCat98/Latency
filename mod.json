@@ -1,0 +1,14 @@
+{
+	"geode": "3.3.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "yellowcat98.latency",
+	"name": "Latency",
+	"version": "v1.0.0",
+	"developer": "YellowCat98",
+	"description": ""
+}
