@@ -1,1 +1,1 @@
-if you like this mod you can support by donating to my [ko-fi](https://ko-fi.com/yellowcat98)!
+if you like this mod you can support by donating to my [ko-fi](https://ko-fi.com/yellowcat98) or just starring the [Github Repository](https://github.com/YellowCat98/Latency)!
